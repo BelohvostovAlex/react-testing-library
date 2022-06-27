@@ -1,6 +1,6 @@
 import { screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
-import { Counter } from './Counter';
+
 import { renderTestApp } from '../../tests/helpers/renderTestApp';
 
 describe('Counter component', () => {
